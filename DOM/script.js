@@ -1,19 +1,19 @@
-//getElementByID()
+//getElementByID() - Element
 const elementByID = document.getElementById('blog-title')
 console.log(elementByID)
 
-//getElementByClassName()
+//getElementByClassName() - HTMLCollection
 const elementByClass = document.getElementsByClassName('one')
 console.log(elementByClass)
 
-//getElementByTagName()
+//getElementByTagName() - HTMLCollection
 const elementByTag = document.getElementsByTagName('head')
 console.log(elementByTag)
 
-//querySelector()
+//querySelector() - Element
 const element = document.querySelector('.one')
 console.log(element)
 
-//querySelectorAll()
+//querySelectorAll() - Nodelist
 const elementAll = document.querySelectorAll('[src]')
 console.log(elementAll)
