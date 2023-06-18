@@ -1,7 +1,9 @@
 import './Logo.css'
 import React from 'react'
 
-export default props =>
+
+export default function Logo() {
     <aside className="logo">
         Logo
-    </aside>
+    </aside>;
+}

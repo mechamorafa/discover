@@ -1,7 +1,9 @@
 import './Header.css'
 import React from 'react'
 
-export default props =>
+
+export default function Header(){
     <header className="header">
         Cabeçalho
-    </header>
+    </header>;
+}
