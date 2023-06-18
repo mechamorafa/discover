@@ -1,0 +1,35 @@
+{
+  "users": [{
+      "id": 1,
+      "name": "Artur Oliveira",
+      "email": "aoliveira@test.com"
+  }, {
+    "id": 2,
+    "name": "Maria Eduarda",
+    "email": "mjs@test.com"
+  }, {
+    "id": 3,
+    "name": "Jorge Silva",
+    "email": "mjs@test.com"
+  }, {
+    "id": 4,
+    "name": "Rafael Eugenio",
+    "email": "mjs@test.com"
+  }, {
+    "id": 5,
+    "name": "Janderson Soares",
+    "email": "mjs@test.com"
+  }, {
+    "id": 6,
+    "name": "Leonardo Moura",
+    "email": "mjs@test.com"
+  }, {
+    "id": 7,
+    "name": "Joao Minervo",
+    "email": "mjs@test.com"
+  }, {
+    "id": 8,
+    "name": "Adamastor Piteu",
+    "email": "mjs@test.com"
+  }]
+}
