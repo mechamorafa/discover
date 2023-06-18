@@ -3,7 +3,7 @@ import React from 'react'
 
 
 export default function Header(){
-    <header className="header">
+    return <header className="header">
         Cabeçalho
     </header>;
 }

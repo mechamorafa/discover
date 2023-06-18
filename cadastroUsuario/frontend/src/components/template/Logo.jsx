@@ -3,7 +3,7 @@ import React from 'react'
 
 
 export default function Logo() {
-    <aside className="logo">
+    return <aside className="logo">
         Logo
     </aside>;
 }
